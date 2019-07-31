@@ -32,7 +32,7 @@ Shadowgate features  familiar DnD  races, classes,  spells in  the new
 environment, and some of homebrew content.
 
 [8|Play in a telnet|null|shadowgate.org|8080]
-[8|Play in a SSL-enable telnet|null|shadowgate.org|8443]
+[8|Play in a SSL-enabled telnet|null|shadowgate.org|8443]
 [h|Play in a web-browser|URL:http://shadowgate.org/play|server|port]
 
 Vote for us on Web mud listings:
