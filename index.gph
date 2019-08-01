@@ -39,14 +39,17 @@ More about the game:
 [1|Races|/user/races|server|port]
 [1|Browse Helpfiles|/user/|server|port]
 
+Source code (core library):
+git clone https://github.com/openshadowgate/shadowgate.git
+
 Vote for us on Web mud listings:
 [h|Top MUD Sites|URL:http://www.topmudsites.com/vote-shadowgate.html|server|port]
 [h|The MUD Connector|URL:http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=ShadowGate+MUD|server|port]
 
-Web Social:
+Social:
+[h|@shadowgate@mastodon.sdf.org|URL:https://mastodon.sdf.org/@shadowgate|server|port]
 [h|Discord|URL:https://discordapp.com/invite/dMAnmuJ|server|port]
 [h|Web BBS (text-browser compatible)|URL:https://shadowgate.org/forum|server|port]
-[h|@shadowgate@mastodon.sdf.org|URL:https://mastodon.sdf.org/@shadowgate|server|port]
 
 Last updated: Wed 31 Jul 2019 09:32:20 AM UTC
 [1|Gophered by geomyidae|/scm/geomyidae/log.gph|gopher.r-36.net|70]
