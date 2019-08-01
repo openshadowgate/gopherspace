@@ -30,9 +30,14 @@ likes to make items and enchant them for a profit?
 Shadowgate features  familiar DnD  races, classes,  spells in  the new
 environment, and some of homebrew content.
 
-[8|Play in a telnet|null|shadowgate.org|8080]
-[8|Play in a SSL-enabled telnet|null|shadowgate.org|8443]
+[8|Play in a telnet|null|server|8080]
+[8|Play in a SSL-enabled telnet|null|server|8443]
 [h|Play in a web-browser|URL:http://shadowgate.org/play|server|port]
+
+More about the game:
+[1|Classes|/user/classes|server|port]
+[1|Races|/user/races|server|port]
+[1|Browse Helpfiles|/user/|server|port]
 
 Vote for us on Web mud listings:
 [h|Top MUD Sites|URL:http://www.topmudsites.com/vote-shadowgate.html|server|port]
