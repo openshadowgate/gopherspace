@@ -35,9 +35,13 @@ environment, and some of homebrew content.
 [h|Play in a web-browser|URL:http://shadowgate.org/play|server|port]
 
 More about the game:
+[0|Rules|/user/rules/rules.txt|server|port]
 [1|Classes|/user/classes|server|port]
+[1|Skills|/user/skills|server|port]
 [1|Races|/user/races|server|port]
-[1|Browse Helpfiles|/user/|server|port]
+
+Heplfiles:
+[1|Browse|/user/|server|port]
 
 Source code (core library):
 git clone https://github.com/openshadowgate/shadowgate.git
@@ -51,5 +55,5 @@ Social:
 [h|Discord|URL:https://discordapp.com/invite/dMAnmuJ|server|port]
 [h|Web BBS (text-browser compatible)|URL:https://shadowgate.org/forum|server|port]
 
-Last updated: Wed 31 Jul 2019 09:32:20 AM UTC
+Last updated: Fri 02 Aug 2019 07:10:39 AM UTC
 [1|Gophered by geomyidae|/scm/geomyidae/log.gph|gopher.r-36.net|70]
