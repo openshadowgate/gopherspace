@@ -40,7 +40,7 @@ More about the game:
 [1|Skills|/user/skills|server|port]
 [1|Races|/user/races|server|port]
 
-Heplfiles:
+Helpfiles:
 [1|Browse|/user/|server|port]
 
 Source code (core library):
