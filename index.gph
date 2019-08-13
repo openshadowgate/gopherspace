@@ -34,6 +34,8 @@ environment, and some of homebrew content.
 [8|Play in a SSL-enabled telnet|null|server|8443]
 [h|Play in a web-browser|URL:http://shadowgate.org/play|server|port]
 
+[1|Who is online now?|/wholist.gph|server|port]
+
 More about the game:
 [0|Rules|/user/rules/rules.txt|server|port]
 [1|Classes|/user/classes|server|port]
