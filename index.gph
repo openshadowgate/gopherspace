@@ -39,8 +39,10 @@ environment, and some of homebrew content.
 More about the game:
 [0|Rules|/user/rules/rules.txt|server|port]
 [1|Classes|/user/classes|server|port]
-[1|Skills|/user/skills|server|port]
 [1|Races|/user/races|server|port]
+
+Maps:
+[I|Mainland|/mainland.jpg|server|port]
 
 Helpfiles:
 [1|Browse|/user/|server|port]
